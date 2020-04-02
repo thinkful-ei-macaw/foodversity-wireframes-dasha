@@ -1,0 +1,28 @@
+.add {
+    background-color: #A9A9A9;
+
+}
+
+.edit{
+    background-color: #E8E8E8;
+}
+
+p {
+    padding: 10px;
+}
+
+fieldset {
+    align-items: center;
+    padding: 20px;
+}
+
+input {
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+label {
+    margin-left: 70px;
+}
